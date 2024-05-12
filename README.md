@@ -134,9 +134,7 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-https://github.com/23004513/MathServer/raw/main/2023-11-23%20(1).png
-
-
+![image](https://github.com/rohanjeyachandran/MathServer/assets/169586172/49277878-558a-4914-bfb9-4b22c458d597)
 
 
 ## HOMEPAGE:
